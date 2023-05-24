@@ -1,2 +1,2 @@
 # counting
-basic webpage for ciunting
+basic webpage for counting people or anything else
