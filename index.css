@@ -6,10 +6,18 @@ body {
     font-weight: bold;
     text-align: center;
 }
-h2 {
-    margin: 50px;
+h1 {
+    margin: 200px 200px 50px 200px;
+    font-size: 50px;
 }
 h2 {
-    font-size: 50px;
-
+    font-size: 80px;
+}
+#increment-btn {
+    color:white;
+    background-color: maroon;
+    padding: 10px;
+    border: white 3px solid;
+    border-radius: 5px;
+    font-size: 45px;
 }
