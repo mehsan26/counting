@@ -35,6 +35,6 @@ function increment() {
 let saveEl=document.getElementById("save-el")
 let entry=" " + count + " -"
 function save() {
-    saveEl.innerText=entry
+    saveEl.innerText+=entry
 }
 
